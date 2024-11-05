@@ -27,15 +27,26 @@ A simple command-line application that helps users split a bill among friends, w
 ## Example Usage
   plaintext
   Enter the number of friends joining (including you): 3
+  
   Enter the name of every friend (including you), each on a new line:
+  
   Alice
+  
   Bob
+  
   Charlie
+  
   Enter the total bill value:
+  
   150
+  
   Do you want to use the "Who is lucky?" feature? (Yes/No)
+  
   Yes
+  
   Charlie is the lucky one!
+  
   {'Alice': 75.0, 'Bob': 75.0, 'Charlie': 0}
+  
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
